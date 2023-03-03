@@ -1,35 +1,35 @@
 let itens = [
-    produto = {
+    produto1 = {
         image: './assets/img/painting/clock.jpg',
         name: 'Smartwatch',
         price: 'R$100,00',
         type: 'Painting'
     },
-    produto = {
+    produto2 = {
         image: './assets/img/painting/gamepad.jpg',
         name: 'Controle Playstation',
         price: 'R$100,00',
         type: 'Painting'
     },
-    produto = {
+    produto3 = {
         image: './assets/img/painting/personagem.jpg',
         name: 'Robot',
         price: 'R$100,00',
         type: 'Painting'
     },
-    produto = {
+    produto4 = {
         image: './assets/img/actions/animewoman.jpg',
         name: 'Anime Woman',
         price: 'R$100,00',
         type: 'Action Figures'
     },
-    produto = {
+    produto5 = {
         image: './assets/img/actions/dragonballpersonagem.jpg',
         name: 'Goku Super Saiyajin',
         price: 'R$100,00',
         type: 'Action Figures'
     },
-    produto = {
+    produto6 = {
         image: './assets/img/actions/starwarspersonagem.jpg',
         name: 'Sr Yoda',
         price: 'R$100,00',
